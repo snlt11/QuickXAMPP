@@ -6,7 +6,7 @@ services:
     container_name: apache_server
     restart: always
     ports:
-      - "8080:80"
+      - "7000:80"
     volumes:
       - ./projects:/var/www/html
     networks:
@@ -33,7 +33,7 @@ services:
     container_name: phpmyadmin
     restart: always
     ports:
-      - "8081:80"
+      - "7001:80"
     environment:
       PMA_HOST: db
       MYSQL_ROOT_PASSWORD: root

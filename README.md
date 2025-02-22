@@ -21,13 +21,13 @@ docker compose down
 UI
 
 ```bash
-http://127.0.0.1:8080/
+http://127.0.0.1:7000/
 ```
 
 phpMyAdmin
 
 ```bash
-http://localhost:8081/
+http://localhost:7001/
 ```
 
 ```bash
