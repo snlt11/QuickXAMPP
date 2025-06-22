@@ -5,7 +5,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/snlt11/xampp-docker
+git clone https://github.com/snlt11/QuickXAMPP
 ```
 
 Docker Build and Run
