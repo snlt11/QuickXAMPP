@@ -1,5 +1,7 @@
 ## Getting Started
 
+![Project UI Screenshot](./Page.png)
+
 Clone the repository:
 
 ```bash
