@@ -32,7 +32,7 @@ services:
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:latest
-    container_name: phpmyadmin
+    container_name: phpmyadmin_quick_xampp
     restart: always
     ports:
       - "7002:80"
